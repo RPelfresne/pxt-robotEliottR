@@ -1,5 +1,5 @@
 {
-    "name": "RadioSmile",
+    "name": "RobotEliottR",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -7,7 +7,9 @@
         "microphone": "*",
         "radio-broadcast": "*",
         "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.7.5"
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.5",
+        "pxt-kitronik-motor-driver": "github:kitronikltd/pxt-kitronik-motor-driver#v0.0.8",
+        "pxt-kitronik-robotics-board": "github:kitronikltd/pxt-kitronik-robotics-board#v0.1.0"
     },
     "files": [
         "main.blocks",
